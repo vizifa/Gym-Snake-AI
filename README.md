@@ -27,5 +27,11 @@ Average reward recieved: 28.356
 
 ![image](https://user-images.githubusercontent.com/88096518/136699180-639b4a14-1cd3-4cfd-a1b3-0e10c1b7c6ea.png)
 
+alpha = 0.1
+
+gamma = 0.8
+
+lamda = 0.9
+
 
 
