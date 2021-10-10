@@ -9,8 +9,7 @@ The agent has been trained using TD learning.
 The algorithm used was SARSA lambda
 
 Rewards:
-
--1 for game over i.e. bumping into a wall or itself
+\n-1 for game over i.e. bumping into a wall or itself
 1 for eating the fruit
 0 otherwise
 
