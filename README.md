@@ -14,9 +14,16 @@ The algorithm used was SARSA lambda
 
 The state is defined by direction of the apple with respect to the head and whether the cells next to the head contain an obstacle. An obstacle is defined as either a wall or the body of the snake.
 
-*Direction of the apple:
+Direction of the apple:
+ -Four variables were defined to store 1 if the apple is in front, to the left, behind, or to the right of the snake else the value is 0.
+ -These variables are defined with respect to the head of the snake.
  
+Obstacles:
+ -Obstacles are defined as either the body of the snake or the wall.
+ -Three variables were defined to store 1 if there is an obstacle in front, to the left, or to the right of the snake else the value is 0.
 
+This reluts in a state space of the size = (2x2x2x2) x (2x2x2) = 128.
+ 
 The agent was trained for 5000 episodes, and tested for 200 episodes.
 
 ## Results
@@ -34,6 +41,7 @@ gamma = 0.8
 
 lamda = 0.9
 
+### Execution:
 ![gif](https://user-images.githubusercontent.com/88096518/136910303-fba4dc52-c58b-4003-aaa9-f5df3a1e873c.gif)
 
 
