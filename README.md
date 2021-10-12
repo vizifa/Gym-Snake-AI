@@ -14,8 +14,8 @@ The algorithm used was SARSA lambda
 
 The state is defined by direction of the apple with respect to the head and whether the cells next to the head contain an obstacle. An obstacle is defined as either a wall or the body of the snake.
 
--Direction of the apple:
- -
+*Direction of the apple:
+ 
 
 The agent was trained for 5000 episodes, and tested for 200 episodes.
 
