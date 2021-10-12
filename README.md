@@ -1,14 +1,17 @@
 # Gym-Snake-AI
 
-Training an agent using RL tabular methods on gym-snake
+Environment used: [gym-snake](https://github.com/grantsrb/Gym-Snake)
 
-Environment used: gym-snake: https://github.com/grantsrb/Gym-Snake
+## Description
+
+
+Training an agent using tabular reinforcement learning methods on the classic snake game.
 
 The agent has been trained using TD learning.
 
 The algorithm used was SARSA lambda
 
-Rewards:
+### Rewards:
 
 -1 for game over i.e. bumping into a wall or itself
 
