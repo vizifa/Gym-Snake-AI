@@ -12,7 +12,6 @@ action_space = 3
 
 #making the env
 env = gym.make('snake-v0')
-#env.grid_size = [8, 8]
 
 #global variables:
 epsilon = 1
