@@ -4,20 +4,18 @@ Environment used: [gym-snake](https://github.com/grantsrb/Gym-Snake)
 
 ## Description
 
-
 Training an agent using tabular reinforcement learning methods on the classic snake game.
 
 The agent has been trained using TD learning.
 
 The algorithm used was SARSA lambda
 
-### Rewards:
+### State Space:
 
--1 for game over i.e. bumping into a wall or itself
+The state is defined by direction of the apple with respect to the head and whether the cells next to the head contain an obstacle. An obstacle is defined as either a wall or the body of the snake.
 
-1 for eating the fruit
-
-0 otherwise
+-Direction of the apple:
+ -
 
 The agent was trained for 5000 episodes, and tested for 200 episodes.
 
