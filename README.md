@@ -28,6 +28,9 @@ The agent was trained for 5000 episodes, and tested for 200 episodes.
 
 ## Results
 
+### Execution:
+![gif](https://user-images.githubusercontent.com/88096518/136910303-fba4dc52-c58b-4003-aaa9-f5df3a1e873c.gif)
+
 Graphs were plotted between episode and rewards
 
 Maximum reward recived: 53
@@ -42,10 +45,4 @@ gamma = 0.8
 lamda = 0.9
 
 Training:
-
-![Training](https://user-images.githubusercontent.com/88096518/137182424-fa8f1313-38e2-4b9b-b7e4-281cb2898dd3.png)
-
-### Execution:
-![gif](https://user-images.githubusercontent.com/88096518/136910303-fba4dc52-c58b-4003-aaa9-f5df3a1e873c.gif)
-
-
+![Training](https://user-images.githubusercontent.com/88096518/137182678-7ba98b22-73cc-4555-88d4-47e89dcdaa9b.png)
