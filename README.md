@@ -36,6 +36,7 @@ Graphs were plotted between episode and rewards
 
 #### Testing:
 Maximum reward recived: 53
+
 Average reward recieved: 28.356
 
 ![image](https://user-images.githubusercontent.com/88096518/136699180-639b4a14-1cd3-4cfd-a1b3-0e10c1b7c6ea.png)
