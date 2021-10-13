@@ -34,6 +34,7 @@ The agent was trained for 5000 episodes, and tested for 200 episodes.
 ### Graphs:
 Graphs were plotted between episode and rewards
 
+#### Testing:
 Maximum reward recived: 53
 Average reward recieved: 28.356
 
@@ -45,5 +46,5 @@ gamma = 0.8
 
 lamda = 0.9
 
-Training:
+#### Training:
 ![Training](https://user-images.githubusercontent.com/88096518/137182678-7ba98b22-73cc-4555-88d4-47e89dcdaa9b.png)
