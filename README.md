@@ -31,6 +31,7 @@ The agent was trained for 5000 episodes, and tested for 200 episodes.
 ### Execution:
 ![gif](https://user-images.githubusercontent.com/88096518/136910303-fba4dc52-c58b-4003-aaa9-f5df3a1e873c.gif)
 
+### Graphs:
 Graphs were plotted between episode and rewards
 
 Maximum reward recived: 53
