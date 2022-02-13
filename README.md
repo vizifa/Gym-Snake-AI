@@ -21,7 +21,7 @@ Direction of the apple:
 Obstacles:
  - Obstacles are defined as either the body of the snake or the wall.
  - Three variables were defined to store 1 if there is an obstacle in front, to the left, or to the right of the snake else the value is 0.
- - - f
+   - f
 
 This reluts in a state space of the size = (2x2x2x2) x (2x2x2) = 128.
  
