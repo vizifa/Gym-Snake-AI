@@ -10,6 +10,8 @@ The agent has been trained using TD learning.
 
 The algorithm used was SARSA lambda
 
+Video explaining the project: https://www.youtube.com/watch?v=C4M3nTDao8M&list=LL&index=12 
+
 ### State Space:
 
 The state is defined by direction of the apple with respect to the head and whether the cells next to the head contain an obstacle. An obstacle is defined as either a wall or the body of the snake.
